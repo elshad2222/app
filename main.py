@@ -9,7 +9,7 @@ app = QApplication([])
 main_win = QWidget()
 main_win.resize(700,500)
 main_win.setWindowTitle('Easy Editor')
-
+#elshad
 btn_dir = QPushButton('Папка')
 list_images = QListWidget()
 label_image = QLabel('Картинка')
